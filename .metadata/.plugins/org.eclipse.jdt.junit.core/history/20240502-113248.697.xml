@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GildedRoseTest" project="Kata" tests="5" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.gildedrose.GildedRoseTest" incomplete="true" displayname="GildedRoseTest" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]">
+    <testcase name="updateQuality_BackstagePasses" classname="com.gildedrose.GildedRoseTest" incomplete="true" displayname="updateQuality_BackstagePasses()" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]/[method:updateQuality_BackstagePasses()]"/>
+    <testcase name="updateQuality_Sulfuras" classname="com.gildedrose.GildedRoseTest" incomplete="true" displayname="updateQuality_Sulfuras()" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]/[method:updateQuality_Sulfuras()]"/>
+    <testcase name="updateQuality_ConjuredItem" classname="com.gildedrose.GildedRoseTest" incomplete="true" displayname="updateQuality_ConjuredItem()" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]/[method:updateQuality_ConjuredItem()]"/>
+    <testcase name="updateQuality_NormalItem" classname="com.gildedrose.GildedRoseTest" incomplete="true" displayname="updateQuality_NormalItem()" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]/[method:updateQuality_NormalItem()]"/>
+    <testcase name="updateQuality_AgedBrie" classname="com.gildedrose.GildedRoseTest" incomplete="true" displayname="updateQuality_AgedBrie()" uniqueid="[engine:junit-jupiter]/[class:com.gildedrose.GildedRoseTest]/[method:updateQuality_AgedBrie()]"/>
+  </testsuite>
+</testrun>
