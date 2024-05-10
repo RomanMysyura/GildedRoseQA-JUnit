@@ -8,7 +8,7 @@ post http://localhost:8181/api/personas
 Content-Type: application/json
 
 {
-    "id": 1001,
+    "id": 1005,
     "nombre": "Juan",
     "apellidos": "Perez",
     "edad": 30
