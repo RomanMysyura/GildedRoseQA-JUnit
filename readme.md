@@ -16,5 +16,5 @@ Luego de hacer esto, he ejecutado las pruebas de rendimiento, y después de envi
 ![Los pruebas de aceptacion](img/Captura004.png)
 
 La parte más divertida fue hacer las pruebas E2E con Selenium IDE. Aquí tienes el proyecto que he hecho probando la página web para testing:
-[Ver archivo en commit específico](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/Selenium%20IDE/Pruebas%20E2E.side)
+[Ver archivo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/Selenium%20IDE/Pruebas%20E2E.side)
 
