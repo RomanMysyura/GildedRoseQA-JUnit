@@ -14,3 +14,5 @@ Luego de hacer esto, he ejecutado las pruebas de rendimiento, y después de envi
 
 ![Los pruebas de aceptacion](img/Captura003.png)
 ![Los pruebas de aceptacion](img/Captura004.png)
+
+
