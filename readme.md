@@ -10,7 +10,7 @@ Las carpetas:
 📁[Pruebas HTTP con extension REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
 📁[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
 📁[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
-    📄[PDF del proyecto](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/TestLink/Sistema%20de%20asistencias.pdf)  
+        📄[PDF del proyecto](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/TestLink/Sistema%20de%20asistencias.pdf)  
 📁[Pruebas con el Kata](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Kata)  
 
 ### Hemos hecho un proyecto en TestLink sobre una aplicación de control de asistencia de empleados. Yo me he encargado de hacer la parte de requisitos, casos de uso y casos de prueba del "Subsistema de encargado"
