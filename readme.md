@@ -27,3 +27,7 @@ La parte más divertida fue hacer las pruebas E2E con Selenium IDE. Aquí tienes
 Durante esta formación he aprendido muchas cosas interesantes, como trabajar con SoapUI, Postman, JMeter, ejecutar los tests JUnit con Maven y ver los resultados en SonarQube. La parte más interesante para mí fue Jenkins, que puede analizar el repositorio GitHub, y cuando detecta que el repositorio se ha actualizado, ejecuta los tests.
 
 ![Img](img/Captura005.png)
+
+También me gustó hacer las pruebas con JMeter, porque con esta herramienta se puede comprobar cuántos usuarios puede aguantar una aplicación al mismo tiempo. En esta [carpeta](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Apache%20JMETER) puedes ver los proyectos que he hecho con JMeter.
+
+![Img](img/Captura006.png)
