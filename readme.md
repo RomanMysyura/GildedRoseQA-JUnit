@@ -9,10 +9,10 @@
 📁[Pruebas HTTP con extension REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
 📁[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
 📁[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
-+ [PDF del proyecto](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/TestLink/Sistema%20de%20asistencias.pdf)  
-+ [Informes de pruebas MantisDB](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20MantisDB)  
-+ [Informes de pruebas TestLink](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20TestLink)  
-+ [Pruebas de rendimiento](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Pruebas%20de%20rendimiento%20TestLink)  
++ [PDF del proyecto 📃](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/TestLink/Sistema%20de%20asistencias.pdf)  
++ [Informes de pruebas MantisDB 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20MantisDB)  
++ [Informes de pruebas TestLink 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20TestLink)  
++ [Pruebas de rendimiento 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Pruebas%20de%20rendimiento%20TestLink)  
 
 📁[Pruebas con el Kata](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Kata)  
 
