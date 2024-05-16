@@ -6,7 +6,9 @@ Hemos hecho un proyecto en TestLink sobre una aplicación de control de asistenc
 
 Primero de todo, he hecho el dibujo con un monigote del encargado y sus requisitos.
 ![Los requisitos que he echo](img/encargado.png)
+
 Luego los he puesto en TestLink
+
 ![Los requisitos que he echo](img/Captura001.png)
 
 Después, he hecho las pruebas de aceptación.
@@ -19,6 +21,7 @@ Luego de hacer esto, he ejecutado las pruebas de rendimiento, y después de envi
 ![Los pruebas de aceptacion](img/Captura004.png)
 
 La parte más divertida fue hacer las pruebas E2E con Selenium IDE. Aquí tienes el proyecto que he hecho probando la página web para testing:
+
 [Ver archivo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/Selenium%20IDE/Pruebas%20E2E.side)
 
 Durante esta formación he aprendido muchas cosas interesantes, como trabajar con SoapUI, Postman, JMeter, ejecutar los tests JUnit con Maven y ver los resultados en SonarQube. La parte más interesante para mí fue Jenkins, que puede analizar el repositorio GitHub, y cuando detecta que el repositorio se ha actualizado, ejecuta los tests.
