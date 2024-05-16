@@ -13,6 +13,7 @@
 + [Informes de pruebas MantisDB 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20MantisDB)  
 + [Informes de pruebas TestLink 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Informes%20de%20pruebas%20TestLink)  
 + [Pruebas de rendimiento 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink/Pruebas%20de%20rendimiento%20TestLink)  
++ [Informes en el MantisDB 📝](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/MantisDB)  
 
 📁[Pruebas con el Kata](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Kata)  
 
