@@ -7,7 +7,7 @@ Las carpetas:
 📁[Los tests con JMeter de GildedRose](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/GildedRoseTestROMAN)  
 📁[Pruebas con JMeter](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Apache%20JMETER)  
 📁[Pruebas con SoapUI](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Proyectos%20SoapUI)  
-📁[Pruebas HTTP con extencion REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
+📁[Pruebas HTTP con extension REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
 📁[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
 📁[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
 
