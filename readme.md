@@ -40,7 +40,11 @@
 
 [Ver archivo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/blob/master/Selenium%20IDE/Pruebas%20E2E.side)
 
-#### Durante esta formación he aprendido muchas cosas interesantes, como trabajar con SoapUI, Postman, JMeter, ejecutar los tests JUnit con Maven y ver los resultados en SonarQube. La parte más interesante para mí fue Jenkins, que puede analizar el repositorio GitHub, y cuando detecta que el repositorio se ha actualizado, ejecuta los tests.
+#### Durante esta formación he aprendido muchas cosas interesantes, como trabajar con SoapUI, Postman, JMeter, ejecutar los tests JUnit con Maven y ver los resultados en SonarQube.
+
+![Img](img/Captura007.png)
+
+#### La parte más interesante para mí fue Jenkins, que puede analizar el repositorio GitHub, y cuando detecta que el repositorio se ha actualizado, ejecuta los tests.
 
 ![Img](img/Captura005.png)
 
