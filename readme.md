@@ -1,6 +1,6 @@
 # QA Trabajos de Roman Mysyura
 
-Este es el repositorio con los trabajos que he hecho durante la formación en Logirail.
+## Este es el repositorio con los trabajos que he hecho durante la formación en Logirail.
 
 Las carpetas:
 
@@ -11,7 +11,7 @@ Las carpetas:
 📁[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
 📁[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
 
-Hemos hecho un proyecto en TestLink sobre una aplicación de control de asistencia de empleados. Yo me he encargado de hacer la parte de requisitos, casos de uso y casos de prueba del "Subsistema de encargado"
+### Hemos hecho un proyecto en TestLink sobre una aplicación de control de asistencia de empleados. Yo me he encargado de hacer la parte de requisitos, casos de uso y casos de prueba del "Subsistema de encargado"
 
 Primero de todo, he hecho el dibujo con un monigote del encargado y sus requisitos.
 ![Los requisitos que he echo](img/encargado.png)
