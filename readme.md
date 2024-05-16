@@ -4,12 +4,12 @@ Este es el repositorio con los trabajos que he hecho durante la formación en Lo
 
 Las carpetas:
 
-[Los tests con JMeter de GildedRose](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/GildedRoseTestROMAN)  
-[Pruebas con JMeter](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Apache%20JMETER)  
-[Pruebas con SoapUI](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Proyectos%20SoapUI)  
-[Pruebas HTTP con extencion REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
-[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
-[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
+↪︎📁[Los tests con JMeter de GildedRose](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/GildedRoseTestROMAN)  
+↪︎📁[Pruebas con JMeter](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Apache%20JMETER)  
+↪︎📁[Pruebas con SoapUI](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Proyectos%20SoapUI)  
+↪︎📁[Pruebas HTTP con extencion REST en VisualStudio](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Pruebas%20HTTP%20con%20REST)  
+↪︎📁[Pruebas E2E con SeleniumIDE](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/Selenium%20IDE)  
+↪︎📁[Proyecto de Control de asistencia con el grupo](https://github.com/RomanMysyura/GildedRoseQA-JUnit/tree/master/TestLink)  
 
 Hemos hecho un proyecto en TestLink sobre una aplicación de control de asistencia de empleados. Yo me he encargado de hacer la parte de requisitos, casos de uso y casos de prueba del "Subsistema de encargado"
 
